@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "stanza-misc",
+  "devDependencies": {
+    "node-fetch": "^2.6.0",
+    "tar": "^4.4.10"
+  },
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecglassford/stanza-misc.git"
+  },
+  "author": "Alec Glassford <glassford@cs.stanford.edu> (https://alecglassford.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alecglassford/stanza-misc/issues"
+  },
+  "homepage": "https://github.com/alecglassford/stanza-misc#readme"
+}

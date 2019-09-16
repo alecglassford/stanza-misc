@@ -1,0 +1,7 @@
+[
+  {
+    "source": "https://github.com/alecglassford/paris/releases/download/v1.0.0/paris-v1.0.0.tar.gz",
+    "unzipped_name": "paris-v1.0.0/",
+    "dest": "paris/"
+  }
+]
