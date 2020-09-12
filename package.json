@@ -2,7 +2,7 @@
   "private": true,
   "name": "stanza-misc",
   "devDependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "tar": "^4.4.10"
   },
   "scripts": {
