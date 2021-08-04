@@ -3,7 +3,7 @@
   "name": "stanza-misc",
   "devDependencies": {
     "node-fetch": "^2.6.0",
-    "tar": "^4.4.10"
+    "tar": "^4.4.15"
   },
   "scripts": {
     "build": "node build.js"
